@@ -46,3 +46,20 @@ lista_devedores = ['Ana', 'Roberto', 'Carlos', 'Ronaldo', 'Beatriz']
 Escreva o código que percorre essa lista e avisa: "Alerta! O cliente [Nome] começa com R".
 
 *Dica: Lembra do `.startswith('R')` que ensinei ontem?*
+
+
+
+---
+
+### 🛠️ A Minha Solução (veja somente depois que realizar)
+
+Aqui está o script desenvolvido para resolver o desafio, unindo o loop de varredura com a condicional de filtro:
+
+```python
+lista_devedores = ['Ana', 'Roberto', 'Carlos', 'Ronaldo', 'Beatriz']
+
+# Varrendo a lista
+for nome in lista_devedores:
+    # Condição: Se o nome começar com 'R'
+    if nome.startswith('R'):
+        print(f'Alerta! O cliente {nome} começa com R')
