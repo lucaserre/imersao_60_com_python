@@ -51,7 +51,7 @@ Escreva o código que percorre essa lista e avisa: "Alerta! O cliente [Nome] com
 
 ---
 
-### 🛠️ A Minha Solução (veja somente depois que realizar)
+### 🛠️ A Minha Solução (verificar somente após a execução do desafio)
 
 Aqui está o script desenvolvido para resolver o desafio, unindo o loop de varredura com a condicional de filtro:
 
