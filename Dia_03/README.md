@@ -52,7 +52,7 @@ Quero ver se você consegue misturar Dicionário com Lista dentro.
 
 ### 🛠️ A Minha Solução (resolver antes de visualizar aqui)
 
-Aqui está o script desenvolvido para resolver o desafio, unindo o loop de varredura com a condicional de filtro:
+Aqui está o script desenvolvido para resolver o desafio:
 
 ```python
 #criar um dicionário
