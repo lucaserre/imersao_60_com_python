@@ -1,6 +1,6 @@
 ### Dia 7: O Liquidificador (Funções `def`)
 
-Lucas, até agora você escreveu scripts que rodam de cima para baixo.
+Jovem, até agora você escreveu scripts que rodam de cima para baixo.
 Mas imagine que você precisa calcular juros de boleto em 10 partes diferentes do seu sistema.
 Você vai copiar e colar a fórmula de juros 10 vezes? **NÃO.**
 Se o juro mudar de 10% para 11%, você teria que mudar em 10 lugares.
