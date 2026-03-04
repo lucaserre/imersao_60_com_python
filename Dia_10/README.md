@@ -40,7 +40,7 @@ Simule o comportamento do seu Robô de WhatsApp.
 
 Quero ver você controlar o tempo.
 
-***🛠️ A Minha Solução (verificar somente após a execução do desafio)
+***🛠️ A Minha Solução (verificar somente após a execução do desafio)***
 
 ```python
 
