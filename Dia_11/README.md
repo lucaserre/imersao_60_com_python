@@ -55,3 +55,14 @@ IP: 192.168.0.2 - OK
 4. Se a linha contiver a palavra "ERRO", imprima: "ALERTA DE SEGURANÇA NA LINHA: [conteúdo da linha]".
 
 Quero ver você minerar texto.
+
+**🛠️ A Minha Solução (verificar somente após a execução do desafio)**
+
+```python
+
+with open ('servidor.txt', 'r') as relatorio:
+
+    for log in relatorio:
+        if 'ERRO' in log.strip():
+            print(f'ALERTA DE SEGURANÇA NA LINHA {log.strip()} ')
+                  
