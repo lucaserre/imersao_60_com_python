@@ -1,0 +1,6 @@
+--- RELATÓRIO DO ESTAGIÁRIO ---
+18:30:46 Sucesso: CEP 25725380 é Estrada das Perobas
+--- RELATÓRIO DO ESTAGIÁRIO ---
+18:30:47 Falha: CEP 99999-999 não localizado
+--- RELATÓRIO DO ESTAGIÁRIO ---
+18:30:48 Sucesso: CEP 01001-000 é Praça da Sé
